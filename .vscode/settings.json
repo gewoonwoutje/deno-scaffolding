@@ -1,0 +1,16 @@
+{
+	"editor.rulers": [110],
+	"deno.enable": true,
+	"[javascript]": {
+		"editor.defaultFormatter": "axetroy.vscode-deno"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "axetroy.vscode-deno"
+	},
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "axetroy.vscode-deno"
+	},
+	"editor.formatOnSave": true,
+	"editor.insertSpaces": true,
+	"editor.tabSize": 2
+}
