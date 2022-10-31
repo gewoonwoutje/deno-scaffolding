@@ -1,6 +1,3 @@
-import * as Ext from "../external.ts";
-Ext.welcome;
+import { sayHi } from './api/mod.ts';
 
-export function returnLalala() {
-  return "lalala";
-}
+console.log(sayHi('<Your name>'));
